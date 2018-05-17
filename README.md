@@ -48,7 +48,7 @@ Web service/API only. No user interface needed.
 * The user must be able to delete an existing task.
 * If the task isn't valid anymore, the API must return the following message: "Good news! The task you were trying to delete didn't even exist.".
 
-**4) As a guest user, I want to prioritize the tasks of my TO DO list, so that I can organize my work and always deliver the most valuable things first.**
+**4) As a guest user, I want to edit the tasks of my TO DO list, so I can fix my stored tasks.**
 
 **ACCEPTANCE CRITERIA:**
 * The API must be developed using REST concepts and practices.
